@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @lukan1u
-- 👀 I’m interested in python development, web development and rust programming as well as security and ethical hacking with linux
-- 🌱 I’m currently learning rust/python/web
-- 💞️ I’m looking to collaborate on any python project
-- 📫 How to reach me LP
+- 👀 I’m interested in learning python, ethical hacking, hacking tools, red/blue team
+- 🌱 I’m currently styding at UWE Bristol 
