@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lukas🤓  nickname: @lukan1u 
 - 👀 I’m interested in learning python, ethical hacking, cloud technologies, red/blue team, network security/engeneering
-- 🌱 I’m currently styding at UWE Bristol
+- 🌱 I’m currently studying at UWE Bristol
 - 🎯 Aiming to become Cloud Security Professional
