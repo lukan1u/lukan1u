@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Lukas🤓  nickname: @lukan1u 
-- 👀 I’m interested in learning python, ethical hacking, cloud technologies, red/blue team, network security/engineering
-- 🎯 Aiming to become Cloud Security Professional
